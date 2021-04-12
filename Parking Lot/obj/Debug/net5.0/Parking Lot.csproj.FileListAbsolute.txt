@@ -1,0 +1,16 @@
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\bin\Debug\net5.0\Parking Lot.exe
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\bin\Debug\net5.0\Parking Lot.deps.json
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\bin\Debug\net5.0\Parking Lot.runtimeconfig.json
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\bin\Debug\net5.0\Parking Lot.runtimeconfig.dev.json
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\bin\Debug\net5.0\Parking Lot.dll
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\bin\Debug\net5.0\ref\Parking Lot.dll
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\bin\Debug\net5.0\Parking Lot.pdb
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\obj\Debug\net5.0\Parking Lot.csprojAssemblyReference.cache
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\obj\Debug\net5.0\Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\obj\Debug\net5.0\Parking Lot.AssemblyInfoInputs.cache
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\obj\Debug\net5.0\Parking Lot.AssemblyInfo.cs
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\obj\Debug\net5.0\Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\obj\Debug\net5.0\Parking Lot.dll
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\obj\Debug\net5.0\ref\Parking Lot.dll
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\obj\Debug\net5.0\Parking Lot.pdb
+C:\Users\parathi\Desktop\D&A\OOAD\Parking Lot\obj\Debug\net5.0\Parking Lot.genruntimeconfig.cache

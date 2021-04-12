@@ -1,0 +1,16 @@
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\bin\Debug\net5.0\Hotel Management System.exe
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\bin\Debug\net5.0\Hotel Management System.deps.json
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\bin\Debug\net5.0\Hotel Management System.runtimeconfig.json
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\bin\Debug\net5.0\Hotel Management System.runtimeconfig.dev.json
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\bin\Debug\net5.0\Hotel Management System.dll
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\bin\Debug\net5.0\ref\Hotel Management System.dll
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\bin\Debug\net5.0\Hotel Management System.pdb
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\obj\Debug\net5.0\Hotel Management System.csprojAssemblyReference.cache
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\obj\Debug\net5.0\Hotel Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\obj\Debug\net5.0\Hotel Management System.AssemblyInfoInputs.cache
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\obj\Debug\net5.0\Hotel Management System.AssemblyInfo.cs
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\obj\Debug\net5.0\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\obj\Debug\net5.0\Hotel Management System.dll
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\obj\Debug\net5.0\ref\Hotel Management System.dll
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\obj\Debug\net5.0\Hotel Management System.pdb
+C:\Users\parathi\Desktop\D&A\OOAD\Hotel Management System\obj\Debug\net5.0\Hotel Management System.genruntimeconfig.cache
